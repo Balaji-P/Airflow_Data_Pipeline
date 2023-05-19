@@ -14,8 +14,11 @@ Update and Insert: Leveraging the SnowflakeOperator, the project updates existin
 The project structure is organized as follows:
 
 dags/: Directory containing the Airflow DAG definition file.
+
 includes/: Directory containing custom Python modules used in the DAG.
+
 queries/: Directory containing SQL queries used in the DAG.
+
 
 ![image](https://github.com/HabibaaMohey/Airflow-data-Pipline/assets/132647130/1c583e51-7a19-40f7-a13b-4c22ac738b1a)
 
